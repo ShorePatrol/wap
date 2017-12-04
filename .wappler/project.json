@@ -1,0 +1,26 @@
+{
+  "projectName": "Test1",
+  "projectServerModel": "PHP",
+  "openFiles": [
+    {
+      "url": "/index.html",
+      "view": "code",
+      "dirty": true,
+      "tempFile": "~index.html.tmp",
+      "active": true
+    }
+  ],
+  "activeTarget": "Test1 Remote",
+  "targets": [
+    {
+      "access": "ftp",
+      "name": "Test1 Remote",
+      "remoteURL": "http://shhs-webdev/wappler",
+      "ftpServer": "shhs-webdev",
+      "ftpPort": "21",
+      "ftpRemoteFolder": "wappler/",
+      "ftpUser": "DevFTP",
+      "ftpPassword": "26c8aad7d1aceaa3718d"
+    }
+  ]
+}
